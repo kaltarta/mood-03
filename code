@@ -1,0 +1,8 @@
+Here's a simple example of AI code in Python:
+
+# This is a simple AI code in Python
+name = input("What is your name? ")
+print("Hello, " + name + "! I am an AI.")
+
+
+This code prompts the user to enter their name and then greets them with a message that includes their name and identifies itself as an AI.
